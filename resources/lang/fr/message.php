@@ -119,13 +119,13 @@ return [
     'address'                 => 'Addresse',
     'dropus'                  => 'Laissez-nous un mot',
     'yourname'                => 'Votre nom',
-    'emailaddress'            => 'Adresse de couriel',
-    'enteremail'              => 'Renseigner votre adresse de couriel',
+    'emailaddress'            => 'Adresse de courriel',
+    'enteremail'              => 'Renseigner votre adresse de courriel',
     'yourtext'                => 'Votre message',
     'submit'                  => 'ENVOYER',
-    'email'                   => 'Adresse de couriel',
+    'email'                   => 'Adresse de courriel',
     'password'                => 'Mot de passe',
     'retrypepassword'         => 'Resaisir le mot de passe',
     'fullname'                => 'Nom complet',
 ];
- ?>
+?>
